@@ -1,0 +1,8 @@
+url: sumeetkrm.github.io
+
+baseurl: /
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
