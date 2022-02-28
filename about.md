@@ -4,4 +4,4 @@ title: About
 ---
 
 # About Page
-Enter content about me
+Third year EE undergrad at IITB
